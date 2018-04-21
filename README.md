@@ -1,2 +1,2 @@
 Önceki ödevlerimizi bu proje altında toparlayarak, birbirimizin hangi yollardan çözdüğü inceleme fırsatı buluyoruz.  
-Sen de önceki ödevlerini *pull request* ile yollayabilirsin!  [Bilgilendirme Sayfası](https://github.com/java-util-help/info/blob/master/README.md)
+Sen de önceki ödevlerini **pull request** ile yollayabilirsin!  [Bilgilendirme Sayfası](https://github.com/java-util-help/info/blob/master/README.md)
